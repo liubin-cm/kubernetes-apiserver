@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-apiserver:e68c6af15d4672feef7022e94ee4d9af
+FROM gcr.io/google_containers/kube-apiserver:v1.3.7
 #123
